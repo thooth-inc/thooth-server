@@ -1,0 +1,25 @@
+{
+  "name": "marriott-email-aggregation",
+  "version": "1.0.0",
+  "description": "This application is a showcase platform to demostrate different case study applications developed within the organization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "modulus"
+  ],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "contextio": "^1.0.0",
+    "express": "^4.13.4",
+    "lodash": "^4.16.2",
+    "mongoose": "^4.4.16"
+  },
+  "engines": {
+    "node": "6.1.0"
+  }
+}
